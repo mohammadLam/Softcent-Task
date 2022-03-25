@@ -1,0 +1,7 @@
+### Get Bitcoin Information Route
+GET http://localhost:3000/getBitcoinInfo
+Content-Type: application/json
+
+{
+  "currency": "USD"
+}
